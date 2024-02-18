@@ -1,18 +1,17 @@
 {
-  "name": "pkg-placeholder",
+  "name": "file-download",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@8.14.0",
-  "description": "_description_",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "description": "make file download easier",
+  "author": "kazoottt",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/pkg-placeholder#readme",
+  "homepage": "https://github.com/kazoottt/file-download#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pkg-placeholder.git"
+    "url": "git+https://github.com/kazoottt/file-download.git"
   },
-  "bugs": "https://github.com/antfu/pkg-placeholder/issues",
+  "bugs": "https://github.com/kazoottt/file-download/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
