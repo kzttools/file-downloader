@@ -1,7 +1,7 @@
 {
   "name": "@kzttools/file-download",
   "type": "module",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "packageManager": "pnpm@8.14.0",
   "description": "make file download easier",
   "author": "kazoottt",
@@ -14,9 +14,6 @@
   "bugs": "https://github.com/kazoottt/file-download/issues",
   "keywords": [],
   "sideEffects": false,
-  "publishConfig": {
-    "access": "public"
-  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
