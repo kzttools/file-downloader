@@ -1,10 +1,9 @@
 {
   "name": "kzttools@file-download",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@8.14.0",
   "description": "make file download easier",
-  "scope": "kazoottt",
   "author": "kazoottt",
   "license": "MIT",
   "homepage": "https://github.com/kazoottt/file-download#readme",
@@ -15,6 +14,9 @@
   "bugs": "https://github.com/kazoottt/file-download/issues",
   "keywords": [],
   "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
