@@ -1,12 +1,15 @@
 {
-  "name": "@kzttools/file-download",
+  "name": "@kzttools/file-downloader",
   "type": "module",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "packageManager": "pnpm@8.14.0",
   "description": "make file download easier",
   "author": "kazoottt",
   "license": "MIT",
   "homepage": "https://github.com/kazoottt/file-download#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kazoottt/file-download.git"
