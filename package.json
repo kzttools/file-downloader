@@ -1,7 +1,7 @@
 {
   "name": "@kzttools/file-downloader",
   "type": "module",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "packageManager": "pnpm@8.14.0",
   "description": "make file download easier",
   "author": "kazoottt",
@@ -15,7 +15,10 @@
     "url": "git+https://github.com/kazoottt/file-download.git"
   },
   "bugs": "https://github.com/kazoottt/file-download/issues",
-  "keywords": [],
+  "keywords": [
+    "file-download",
+    "blob"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
