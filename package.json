@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "packageManager": "pnpm@8.14.0",
   "description": "make file download easier",
+  "scope": "kazoottt",
   "author": "kazoottt",
   "license": "MIT",
   "homepage": "https://github.com/kazoottt/file-download#readme",
