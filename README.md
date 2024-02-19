@@ -31,7 +31,7 @@ npm地址：
 
 github地址：
 
-[GitHub - KazooTTT/file-downloader](https://github.com/kazoottt/file-downloader)
+[GitHub - kzttools/file-downloader](https://github.com/kzttools/file-downloader)
 
 ## License
 
@@ -45,5 +45,5 @@ github地址：
 [npm-downloads-href]: https://npmjs.com/package/@kzttools/file-downloader
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/@kzttools/file-downloader?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=@kzttools/file-downloader
-[license-src]: https://img.shields.io/github/license/kazoottt/file-downloader.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/kazoottt/file-downloader/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/kzttools/file-downloader.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/kzttools/file-downloader/blob/main/LICENSE

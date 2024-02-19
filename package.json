@@ -6,15 +6,15 @@
   "description": "make file download easier",
   "author": "kazoottt",
   "license": "MIT",
-  "homepage": "https://github.com/kazoottt/file-download#readme",
+  "homepage": "https://github.com/kzttools/file-download#readme",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kazoottt/file-download.git"
+    "url": "git+https://github.com/kzttools/file-download.git"
   },
-  "bugs": "https://github.com/kazoottt/file-download/issues",
+  "bugs": "https://github.com/kzttools/file-download/issues",
   "keywords": [
     "file-download",
     "blob"
