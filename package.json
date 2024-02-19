@@ -6,17 +6,17 @@
   "description": "make file download easier",
   "author": "kazoottt",
   "license": "MIT",
-  "homepage": "https://github.com/kzttools/file-download#readme",
+  "homepage": "https://github.com/kzttools/file-downloader#readme",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kzttools/file-download.git"
+    "url": "git+https://github.com/kzttools/file-downloader.git"
   },
-  "bugs": "https://github.com/kzttools/file-download/issues",
+  "bugs": "https://github.com/kzttools/file-downloader/issues",
   "keywords": [
-    "file-download",
+    "file-downloader",
     "blob"
   ],
   "sideEffects": false,
