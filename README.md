@@ -35,7 +35,7 @@ github地址：
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © 2023-PRESENT [kazoottt](https://github.com/kazoottt)
 
 <!-- Badges -->
 
